@@ -3,7 +3,7 @@
     "@editorjs/editorjs": "^2.30.8"
   },
   "name": "@iizotikov/tg-spoiler-editor-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "keywords": [
     "spoiler",
