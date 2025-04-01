@@ -8,7 +8,7 @@ supporting export to telegram.
 ## Install via NPM
 Get the package
 
-```
+```bash
 npm install --save @iizotikov/tg-spoiler-editor-js
 
 // or Yarn
@@ -18,13 +18,15 @@ yarn add @iizotikov/tg-spoiler-editor-js
 
 ## Include module in your application 
 
-`import Spoiler from '@iizotikov/tg-spoiler-editor-js';`
+```ts
+import Spoiler from '@iizotikov/tg-spoiler-editor-js';
+```
 
 ## Usage
 
 Add a new Tool to the `tools` property of the Editor.js initial config.
 
-```
+```ts
 import EditorJs from '@editorjs/editorjs';
 import Spoiler from '@iizotikov/tg-spoiler-editor-js';
 
@@ -44,8 +46,8 @@ If you want to add custom background, just override class `.tg-spoiler` anywhere
 I recommend to add spoiler the same color as your text, to create an illusion of hiding.
 
 For example:
-```
-//index.css
+```css
+/*index.css*/
 
 .tg-spoiler {
   background-color: white !important;
@@ -56,7 +58,7 @@ For example:
 
 Final output looks like this:
 
-```
+```json
 {
     "type" : "paragraph",
     "data" : {
