@@ -3,7 +3,7 @@
     "@editorjs/editorjs": "^2.30.8",
     "vite-plugin-css-injected-by-js": "^3.5.2"
   },
-  "name": "@iizotikov/tg-spoiler-editor-js",
+  "name": "@iizotikov/editor-js-tg-spoiler",
   "version": "1.0.0",
   "main": "dist/index.umd.js",
   "module": "dist/index.es.js",
