@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "@editorjs/editorjs": "^2.30.8"
+  },
+  "devDependencies": {
+    "vite": "^5.4.16",
+    "@editorjs/editorjs": "^2.30.2"
+  },
+  "name": "@iizotikov/tg-spoiler-editor-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [
+    "spoiler",
+    "tg-spoiler",
+    "tool",
+    "plugin",
+    "editor.js",
+    "editorjs"
+  ],
+  "repository": "https://github.com/izotikov/tg-spoiler-editor-js",
+  "author": {
+    "name": "Igor Izotikov",
+    "email": "iizotikov@gmail.com",
+    "telegram": "@iizotikov"
+  },
+  "license": "MIT",
+  "description": "Inline tool for adding spoilers to text fragments, supporting export to telegram"
+}
