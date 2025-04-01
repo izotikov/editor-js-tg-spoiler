@@ -1,6 +1,6 @@
-![npm](https://img.shields.io/badge/npm-v1.0.7-blue?style=plastic)
+![npm](https://img.shields.io/badge/npm-v1.0.8-blue?style=plastic)
 
-# tg-spoiler-editor-js
+# editor-js-tg-spoiler
 
 Inline tool for adding spoilers to text fragments for [Editor.js](https://github.com/codex-team/editor.js), 
 supporting export to telegram.
