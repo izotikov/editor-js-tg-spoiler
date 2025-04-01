@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "@editorjs/editorjs": "^2.30.8"
+    "@editorjs/editorjs": "^2.30.8",
+    "vite-plugin-css-injected-by-js": "^3.5.2"
   },
   "name": "@iizotikov/tg-spoiler-editor-js",
   "version": "1.0.5",
