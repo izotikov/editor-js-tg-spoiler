@@ -3,7 +3,7 @@
     "@editorjs/editorjs": "^2.30.8"
   },
   "name": "@iizotikov/tg-spoiler-editor-js",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "dist/index.umd.js",
   "module": "dist/index.es.js",
   "types": "dist/index.d.ts",
