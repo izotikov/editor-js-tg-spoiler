@@ -16,3 +16,5 @@ npm install --save @iizotikov/tg-spoiler-editor-js
 yarn add @iizotikov/tg-spoiler-editor-js
 ```
 
+## Include module in your app
+
