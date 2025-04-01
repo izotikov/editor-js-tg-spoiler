@@ -1,4 +1,4 @@
-![npm](https://img.shields.io/badge/npm-v1.0.0-blue?style=plastic)
+![npm](https://img.shields.io/badge/npm-v1.0.1-blue?style=plastic)
 
 # editor-js-tg-spoiler
 
