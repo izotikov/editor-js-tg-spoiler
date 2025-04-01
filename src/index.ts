@@ -1,4 +1,4 @@
-import {type InlineToolConstructorOptions} from "@editorjs/editorjs/types/tools/inline-tool";
+import {type InlineToolConstructorOptions} from "@editorjs/editorjs";
 import './index.css';
 
 export default class Spoiler {
