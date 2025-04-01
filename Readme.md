@@ -11,17 +11,17 @@ supporting export to telegram.
 Get the package
 
 ```bash
-npm install --save @iizotikov/tg-spoiler-editor-js
+npm install --save @iizotikov/editor-js-tg-spoiler
 
 // or Yarn
 
-yarn add @iizotikov/tg-spoiler-editor-js
+yarn add @iizotikov/editor-js-tg-spoiler
 ```
 
 ## Include module in your application 
 
 ```ts
-import Spoiler from '@iizotikov/tg-spoiler-editor-js';
+import Spoiler from '@iizotikov/editor-js-tg-spoiler';
 ```
 
 ## Usage
@@ -30,7 +30,7 @@ Add a new Tool to the `tools` property of the Editor.js initial config.
 
 ```ts
 import EditorJs from '@editorjs/editorjs';
-import Spoiler from '@iizotikov/tg-spoiler-editor-js';
+import Spoiler from '@iizotikov/editor-js-tg-spoiler';
 
 const editor = new EditorJS({
   // ...
