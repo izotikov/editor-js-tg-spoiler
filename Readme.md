@@ -1,4 +1,4 @@
-![npm](https://img.shields.io/badge/npm-v1.0.4-blue?style=plastic)
+![npm](https://img.shields.io/badge/npm-v1.0.7-blue?style=plastic)
 
 # tg-spoiler-editor-js
 
@@ -43,7 +43,7 @@ const editor = new EditorJS({
 
 Right now it highlights spoilered text with black background (at Telegram it's looks like default Telegram spoiler). 
 
-If you want to add custom background, just override class `.tg-spoiler` anywhere in your code with `!important` keyword. 
+If you want to add custom background, just override class `.tg-spoiler` anywhere in your code with `!important` keyword for `background-color`.
 
 I recommend to add spoiler the same color as your text, to create an illusion of hiding.
 
