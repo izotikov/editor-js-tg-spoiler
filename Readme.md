@@ -56,6 +56,11 @@ For example:
 }
 ```
 
+![image](https://github.com/user-attachments/assets/db6b1888-10d6-4a0f-a6c0-96b066759998)
+
+![image](https://github.com/user-attachments/assets/dce855c2-bacc-4fd3-bcfb-68d8305a6373)
+
+
 ## Output data
 
 Final output looks like this:
